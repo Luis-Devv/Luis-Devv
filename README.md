@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luis.dev_)
 
 
-![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Armandoo&show_icons=true&theme=tokyonight)
+![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-devv&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que Estudo Atualmente 📚
 
@@ -23,6 +23,6 @@ Apaixonado por tecnologia, educação e pelo mundo da programação
 
 ## Links Profissionais:
 
-- [LinkdIn](https://linkedin.com/in/luís-armando-80717a232)👾
+- [LinkdIn](https://linkedin.com/in/Luis-Devv-80717a232)👾
 - [Projeto pessoal]()💻
-- [GitHub](https://github.com/Luis-Armandoo)🤙🏻
+- [GitHub](https://github.com/Luis-Devv)🤙🏻
