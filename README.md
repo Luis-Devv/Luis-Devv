@@ -19,8 +19,6 @@
     
 </div><br/>
 
-/*É*/
-
 ## Links Profissionais:
 
 - [LinkdIn](https://linkedin.com/in/Luis-Devv-80717a232)👾
