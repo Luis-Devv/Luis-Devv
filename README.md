@@ -19,7 +19,7 @@
     
 </div><br/>
 
-Apaixonado por tecnologia, educação e pelo mundo da programação
+/*É*/
 
 ## Links Profissionais:
 
