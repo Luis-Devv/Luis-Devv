@@ -8,9 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lu.dev__)
 
 
-https://i.gifer.com/NxfN.gif
-
-
 ![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-devv&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que Estudo Atualmente 📚
