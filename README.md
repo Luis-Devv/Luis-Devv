@@ -21,6 +21,6 @@
 
 ## Links Profissionais:
 
-- [LinkdIn](https://linkedin.com/in/Luis-Devv-80717a232)👾
+- [LinkdIn](https://linkedin.com/in/Luis-Devv-80717a232🤵
 - [Projeto pessoal]()💻
 - [GitHub](https://github.com/Luis-Devv)🤙🏻
