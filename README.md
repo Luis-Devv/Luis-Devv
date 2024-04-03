@@ -8,7 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lu.dev__)
 
 
-media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl0Z2Y3cTFreTlneWtyMmhibXg0ZWJobmw4ZHkwYzJ1cHN5Ym1tbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBythhSiZAoYea6vC2/giphy.gif
+<iframe src="https://gifer.com/embed/Ry6p" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 
 ![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-devv&show_icons=true&theme=tokyonight)
