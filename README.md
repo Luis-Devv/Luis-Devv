@@ -7,8 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luís-armando-80717a232)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lu.dev__)
 
-![Kimetsu-no-Yaiba-Tanjiro-Kamado-anime-Platinum-Conception-Wallpapers-Photoshop-1925251-wallhere com](https://github.com/Luis-Devv/Luis-Devv/assets/99682236/8fdb47cb-ecbf-43c4-bf29-0ca9a8c92172)
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGl0Z2Y3cTFreTlneWtyMmhibXg0ZWJobmw4ZHkwYzJ1cHN5Ym1tbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBythhSiZAoYea6vC2/giphy.gif
 
 
 ![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-devv&show_icons=true&theme=tokyonight)
